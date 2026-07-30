@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rob's Kitchen logo</title>
+  <desc id="desc">A red flame inside a dark circular badge with the words Rob's Kitchen.</desc>
+  <circle cx="256" cy="256" r="242" fill="#171b17"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#c9232d" stroke-width="8"/>
+  <path fill="#c9232d" d="M287 73c12 70-34 80-10 139 12-26 40-44 40-86 56 45 95 106 95 177 0 91-69 151-156 151S100 394 100 303c0-65 37-120 83-159-3 63 25 87 43 98-12-77 21-123 61-169Z"/>
+  <path fill="#f2c94c" d="M256 234c42 39 66 73 66 111 0 38-29 68-66 68s-66-30-66-68c0-31 19-57 48-84-1 29 9 43 23 53-7-31 2-55-5-80Z"/>
+  <path fill="#171b17" d="M254 303c22 24 31 42 31 59 0 18-13 31-30 31-18 0-32-13-32-31 0-15 10-29 24-43-1 13 3 21 10 27-2-16 2-28-3-43Z"/>
+  <rect x="70" y="201" width="372" height="110" rx="10" fill="#171b17" fill-opacity=".88"/>
+  <text x="256" y="249" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="48" font-style="italic" font-weight="900" text-anchor="middle" letter-spacing="1">ROB'S</text>
+  <text x="256" y="294" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="38" font-style="italic" font-weight="900" text-anchor="middle" letter-spacing="2">KITCHEN</text>
+</svg>
