@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 
+import FloatingPurchaseButton from "../ui/FloatingPurchaseButton";
 import NewsletterSignup from "../ui/NewsletterSignup";
 import StickyOrderButton from "../ui/StickyOrderButton";
 import Footer from "./Footer";
@@ -20,6 +21,7 @@ export default function Layout({
       <main className="flex-grow">{children}</main>
       {showNewsletter && <NewsletterSignup />}
       <Footer />
+      <FloatingPurchaseButton />
       <StickyOrderButton />
     </div>
   );

@@ -35,6 +35,12 @@ export const siteConfig = {
     label: "Order Online",
     url: "https://www.toasttab.com/local/order/robs-kitchen-804-n-white-horse-pike",
   },
+  websitePurchase: {
+    enabled: true,
+    label: "Buy This Website",
+    price: "$499 + $20/month",
+    url: "https://buy.stripe.com/3cI3cwe3J94k3Y8aMGdwc00",
+  },
   reviews: {
     label: "Find Rob's Kitchen on Google",
     url: "https://share.google/fH24gaO9qYE0Wj4dj",
