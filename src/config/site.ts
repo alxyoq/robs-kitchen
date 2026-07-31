@@ -38,7 +38,7 @@ export const siteConfig = {
   websitePurchase: {
     enabled: true,
     label: "Buy This Website",
-    url: "https://buy.stripe.com/3cI3cwe3J94k3Y8aMGdwc00?client_reference_id=robs_kitchen",
+    url: "https://buy.stripe.com/3cI3cwe3J94k3Y8aMGdwc00?prefilled_promo_code=FIRST10FREE3&client_reference_id=robs_kitchen",
   },
   reviews: {
     label: "Find Rob's Kitchen on Google",
